@@ -1,0 +1,14 @@
+.AuthNav-list{
+      display: flex;
+      list-style: none;
+}
+.UserMenu-item{
+    margin-right: 10px;
+}
+.AuthNav-link{
+    text-decoration: none;
+
+}
+.active-link{
+    color: chocolate;
+}

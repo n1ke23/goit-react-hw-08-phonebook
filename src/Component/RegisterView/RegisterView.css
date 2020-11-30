@@ -1,0 +1,25 @@
+.RegisterView-label{
+ display: block;  
+}
+.RegisterView{
+
+}
+
+
+.RegisterView-input-name{
+    margin-left: 34px
+
+}
+
+.RegisterView-input-email{
+    margin-left: 38px
+
+}
+.RegisterView-input-password{
+    margin-left: 10px
+
+}
+.RegisterView-btn{
+    background-color: rgba(13, 0, 255, 0.597);
+    padding: 5px 20px;
+}

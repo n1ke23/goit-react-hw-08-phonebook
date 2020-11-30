@@ -1,0 +1,17 @@
+.UserMenu-list {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.UserMenu-item {
+       display: flex;
+    justify-content: space-between; 
+}
+.UserMenu-btn {
+    background-color: blueviolet;
+    padding: 0 20px;
+    margin-left: 20px;
+}
+.UserMenu-link{
+    text-decoration: none;
+}
